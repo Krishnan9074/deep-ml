@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**2** solved · 2 problems · 0 labs · 0 math
+**3** solved · 3 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -14,6 +14,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | --- | --- | --- | --- |
 | [KL Divergence Between Two Normal Distributions](https://www.deep-ml.com/problems/56) | easy | 2026-10-04 | [solution](problems/0056-kl-divergence-between-two-normal-distributions) |
 | [Entropy & Cross-Entropy](https://www.deep-ml.com/problems/205) | medium | 2026-10-02 | [solution](problems/0205-entropy-cross-entropy) |
+| [Jensen-Shannon Divergence](https://www.deep-ml.com/problems/203) | medium | 2026-10-05 | [solution](problems/0203-jensen-shannon-divergence) |
 
 ---
 
